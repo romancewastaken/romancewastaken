@@ -1,6 +1,6 @@
-<h3 align="center">my most used languages</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=romancewastaken&show_icons=true&theme=dark&locale=en&layout=compact" alt="romancewastaken"/></p>
-   <!--<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-2/975435574150316093.png"/>-->
-</p>
-</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abusedev/.github/refs/heads/main/profile/largevariation.png" alt="Logo" width="400" height="400">
+  <h2 align="center">Owner and Developer of <a href="https://github.com/abusedev">abuse</a></h2>
+</div>
+<h4 align="center">I make other things sometimes too</h4>
